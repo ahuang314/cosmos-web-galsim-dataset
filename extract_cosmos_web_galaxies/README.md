@@ -2,7 +2,7 @@
 
 This is the documentation page for the dataset uploaded [here](https://zenodo.org/records/19188494) on Zenodo. 
 
-This dataset, meant for use with SLSim, is a downselected version of the full COSMOS Web dataset, of which the master catalog `COSMOSWeb_mastercatalog_v1.fits` and NIRCam images can be downloaded [here](https://cosmos2025.iap.fr/catalog.html) and [here](https://cosmos2025.iap.fr/nircam.html#downloads).
+This dataset, meant for use with SLSim, is a downselected version of the full COSMOS Web dataset, of which the master catalog `COSMOSWeb_mastercatalog_v1.fits` can be downloaded [here](https://cosmos2025.iap.fr/catalog.html), and the corresponding NIRCam images [here](https://cosmos2025.iap.fr/nircam.html#downloads).
 
 The notebook used to generate this downselected catalog from the full dataset is provided in this repository.
 
