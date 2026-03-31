@@ -24,7 +24,7 @@ The downselected catalog is stored in the file named `COSMOSWeb_galaxy_catalog.f
 - id: The identification number of the source
 - angular_size: The geometric mean of the fitted Sersic radii along the major and minor axes, in arcseconds
 - sersic_index: The fitted Sersic index
-- sersic_angle: The fitted Sersic angle in radians, measured clockwise from north (the +y axis)
+- sersic_angle: The fitted Sersic angle in radians, measured from East to North
 - axis_ratio: The fitted axis ratio
 - z: redshift
 - sersic_fit_chi2: chi2 of the Sersic fit
