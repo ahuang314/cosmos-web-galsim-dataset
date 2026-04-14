@@ -41,3 +41,4 @@ The images corresponding to each galaxy are stored in a file named `COSMOSWeb_ga
 - The downselected catalog now contains the "sersic_radius" column (used to be "angular_size", which was the geometric mean of the sersic radii along the major and minor axes)
 - Changed image cutout sizes to be 5.5 times the sersic radius of the source (used to be 121x121 cutouts for all sources)
 - Fixed a bug causing the cutouts for different bands to be misaligned
+- Added units to the Astropy table
